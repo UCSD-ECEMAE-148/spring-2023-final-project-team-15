@@ -6,7 +6,7 @@
 ![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/TeamPic148)
 
 
-Max Gibson (EE), Artyom Muradyam (CE), Sukhraj Sekhon (ME), Gustav Blankenberg (ME)
+Max Gibson (E.E.), Artyom Muradyam (C.E.), Sukhraj Sekhon (M.E.), Gustav Blankenberg (M.E.)
 
 ![Our Car](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/IMG-4828.jpg)
 
@@ -43,7 +43,7 @@ PyVesc: Through the use of supplied PyVesc functionality, we were able to contro
 
 Our camera mount changed shape over the course of this project. We found that the rotating axis it was on was unstable and created inconsistencies within the data we were recording. On top of that the LIDAR was initially intended to be embedded below the camera as you see on the left, we learned that in order to use the LIDAR consistently we needed to put it as a high point which reduced noise.
 
-## Github with our Code
+## Github
 This github contains a lot of different versions of files that both were and were not used in this project. We put in a lot of hours towards ideas or potential solutions that did not end up being things we finalized. This is expected with lengthy projects and bigger goals.
 These files show the different iterations and versions we used to control our robot. Our initial goal was to use ROS2, with OAK-D Lite and LIDAR, but we decided to just use the Aruco detection and control the robot using PyVesc without ROS. The final file we used to get results is called Aruco_VESC_Final.pys
 
