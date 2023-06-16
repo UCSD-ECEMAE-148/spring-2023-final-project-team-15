@@ -2,7 +2,13 @@
 ## Group repository used for our final autonomous vehicle parking project.
 
 ## Team Members
+
+![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/TeamPic148)
+
+
 Artyom Muradyam (Computer Engineering), Max Gibson (Electrical Engineering), Gustav Blankenberg (Mechanical Engineering), Sukhraj Sekhon (Mechanical Engineering)
+
+![Our Car](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/IMG-4828.jpg)
 
 ## Team 15 Project Overview
 ### Goals
@@ -14,6 +20,8 @@ Reach Objective: By expanding the library of detectable markers, the reach goal 
 
 ### Implementation
 Node Diagram:
+![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/workFlow148.png)
+
 Aruco Tracking Code: OpenCV libraries for Aruco detection were used with the OAK-D camera to get the position and orientation of any marker with respect to the camera. Impressively, the camera (when well calibrated) could detect markers at a very shallow angle. 
 
 Prioritization Code: After receiving a matrix with every recognized Aruco marker and their corresponding coordinates in an array (in the format (ID, X, Y, Z, ROT_X, ROT_Y, ROT_Z), the prioritization code parses the data to find a park or waypoint ID (prioritizing a park ID). The single aruco marker and its global coordinates are then sent out to govern vehicle motion.
@@ -31,7 +39,8 @@ PyVesc: Through the use of supplied PyVesc functionality, we were able to contro
 ## CAD Designs and Progressions
 ![Camer Mount 1](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/CamMount1.png)
 
-![Camer Mount 2]([http://url/to/img.png](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/CamMount2.png))
+![Camer Mount 2](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/CamMount2.png)
+
 Our camera mount changed shape over the course of this project. We found that the rotating axis it was on was unstable and created inconsistencies within the data we were recording. On top of that the LIDAR was initially intended to be embedded below the camera as you see on the left, we learned that in order to use the LIDAR consistently we needed to put it as a high point which reduced noise.
 
 ## Github with our Code
