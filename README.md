@@ -22,7 +22,7 @@ PyVesc: Through the use of supplied PyVesc functionality, we were able to contro
 
 ## Video Demonstrations:
 
-MAE 148 Team 15 Final Project Demo Video #1 - YouTube
+[MAE 148 Team 15 Final Project Demo Video #1 - YouTube](https://www.youtube.com/watch?v=G50PBTAHEMw)
 
 MAE 148 Team 15 Final Project Demo Video #2 - YouTube
  
