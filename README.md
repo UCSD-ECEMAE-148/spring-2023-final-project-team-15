@@ -1,6 +1,4 @@
 # ECE148 Group 15 Spring 2023
-## Group repository used for our final autonomous vehicle parking project.
-
 ## Team Members
 
 ![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/TeamPic148)
