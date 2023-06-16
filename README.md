@@ -29,9 +29,9 @@ PyVesc: Through the use of supplied PyVesc functionality, we were able to contro
 [MAE 148 Team 15 Final Project Demo Video #3 - YouTube](https://www.youtube.com/watch?v=NJUQtnQEkZM)
 
 ## CAD Designs and Progressions
-![alt text](http://url/to/img.png)
+![Camer Mount 1](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/CamMount1.png)
 
-![alt text](http://url/to/img.png)
+![Camer Mount 2]([http://url/to/img.png](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/CamMount2.png))
 Our camera mount changed shape over the course of this project. We found that the rotating axis it was on was unstable and created inconsistencies within the data we were recording. On top of that the LIDAR was initially intended to be embedded below the camera as you see on the left, we learned that in order to use the LIDAR consistently we needed to put it as a high point which reduced noise.
 
 ## Github with our Code
