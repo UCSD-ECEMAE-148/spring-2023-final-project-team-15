@@ -45,8 +45,11 @@ Improvements made around the end of the course were very positive. We saw the ca
 ## Project Proposal and Updates
 
 [Project Proposal](https://docs.google.com/presentation/d/1SPdlXPeaII4OW4W1v2NUxgKgfb3k1HtfPm9ghgGeCbw/edit#slide=id.p)
+
 [Week 9 Update](https://docs.google.com/presentation/d/1lvGwgzwrjG8htye6AT5abwq07Il-wbPSKSPVuAF7KgQ/edit#slide=id.p)
+
 [Week 10 Update](https://docs.google.com/presentation/d/1FMcyuLqXJCHcQL7g1cQ_9VNxa2cS5Ztn7FdCI7k7CQ0/edit#slide=id.p)
+
 [Final Presentation](https://docs.google.com/presentation/d/1nlVrjX4GuRy3t5_0HDabZ8MohPu2Y59aFtOgHU6wwj0/edit#slide=id.p)
 
 
