@@ -6,7 +6,7 @@
 ![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/TeamPic148)
 
 
-Artyom Muradyam (Computer Engineering), Max Gibson (Electrical Engineering), Gustav Blankenberg (Mechanical Engineering), Sukhraj Sekhon (Mechanical Engineering)
+Max Gibson (Electrical Engineering), Artyom Muradyam (Computer Engineering), Sukhraj Sekhon (Mechanical Engineering), Gustav Blankenberg (Mechanical Engineering)
 
 ![Our Car](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-15/blob/main/148%20Pics/IMG-4828.jpg)
 
