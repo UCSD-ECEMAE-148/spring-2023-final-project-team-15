@@ -1,4 +1,4 @@
-# ECE148 Group 14 Spring 2023
+# ECE148 Group 15 Spring 2023
 ## Group repository used for our final autonomous vehicle parking project.
 
 Team Members:
